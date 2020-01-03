@@ -13,4 +13,4 @@ dog_name
    lassie = Dog.new 
    lassie.name = "Lassie"
    
-    putsn lassie.name
+    puts lassie.name
